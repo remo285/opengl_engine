@@ -108,3 +108,24 @@ void Shader::CheckErrors(unsigned int id, std::string type)
         }
     }
 }
+
+void Shader::SetUniformBool(const std::string& name, bool value) const
+{
+    glUniform1i(glGetUniformLocation(programID, name.c_str()), (int)value);
+};
+
+void Shader::SetUniformInt(const std::string& name, int value) const
+{
+    glUniform1i(glGetUniformLocation(programID, name.c_str()), value);
+};
+
+void Shader::SetUniformFloat(const std::string& name, float value) const
+{
+    glUniform1f(glGetUniformLocation(programID, name.c_str()), value);
+};
+
+
+
+//int uniformLocation = glGetUniformLocation(shader, "dynamicColor");
+
+//glUniform4f(uniformLocation, rgb[0], rgb[1], rgb[2], 1.0f);*/
