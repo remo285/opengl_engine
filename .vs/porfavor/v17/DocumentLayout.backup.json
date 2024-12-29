@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|solutionrelative:src\\Shaders\\Source\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|solutionrelative:src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|solutionrelative:src\\Shaders\\Source\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC6C59CB-633D-4161-985B-3559885E2AA6}|porfavor.vcxproj|solutionrelative:src\\Shaders\\Source\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "vertex.glsl",
               "DocumentMoniker": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\vertex.glsl",
               "RelativeDocumentMoniker": "src\\Shaders\\Source\\vertex.glsl",
               "ToolTip": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\vertex.glsl",
               "RelativeToolTip": "src\\Shaders\\Source\\vertex.glsl",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-11T23:27:58.74Z",
               "IsPinned": true,
@@ -44,26 +44,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "fragment.glsl",
               "DocumentMoniker": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\fragment.glsl",
               "RelativeDocumentMoniker": "src\\Shaders\\Source\\fragment.glsl",
               "ToolTip": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Shaders\\Source\\fragment.glsl",
               "RelativeToolTip": "src\\Shaders\\Source\\fragment.glsl",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-11T23:37:11.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Source.cpp",
               "RelativeDocumentMoniker": "src\\Source.cpp",
               "ToolTip": "C:\\Users\\Remis0\\Desktop\\opengl\\opengl_engine\\src\\Source.cpp",
               "RelativeToolTip": "src\\Source.cpp",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-06T03:07:28.176Z",
               "EditorCaption": ""
